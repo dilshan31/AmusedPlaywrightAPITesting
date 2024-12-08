@@ -13,7 +13,6 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
    Clone this repository to your local machine:
-   ```bash
    git clone https://github.com/dilshan31/AmusedPlaywrightAPITesting.git
    
 2. **Install dependencies**:
